@@ -1,0 +1,57 @@
+*{margin: 0;border: 0;}
+body{background-color: #006A65;
+position: relative;
+}
+nav{background-color: #000000; padding: 30px}
+li{list-style: none; display: inline-block;}
+a{text-decoration: none;color: #ffffff; padding: 30px;font-family: 'Graduate', cursive;}
+h1{color: #ffffff;font-size: 70px; padding: 20px; text-align-last: center;font-family: 'Graduate', cursive;}
+.contenedor{width: 100%; margin: auto; display: flex;justify-content: space-between; padding: 5px;}
+img{width: 720px;}	
+h2{text-align-last: center;margin: auto;color: #EAF0F0; padding:13px ;font-size: 25px;font-family: 'Graduate', cursive; }
+h3{text-align-last: center;margin: auto;color: #EAF0F0; padding:13px ;font-size: 25px;font-family: 'Graduate', cursive;}
+h4{text-align-last: center;margin: auto;color: #EAF0F0; padding:14px ;font-size: 22px;font-family: 'Graduate', cursive;}
+footer{width: 100%;
+display: flex;
+justify-content: center;
+justify-content: space-around;
+align-items: center;
+
+background: #2B2626;
+padding: 20px 10px;
+}
+
+footer div.copy{
+	color: white;
+}
+footer div.copy p{
+	padding: 15px 5px;
+}
+div.Información{
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+div.Información div{
+	width: 400px;
+	padding: 10px;
+}
+div.Información div img{
+	width: 100%;
+	position: relative;
+}
+div.Información div h1{
+	font-size: 45px;
+	color: white;
+	max-resolution: top 5px;
+	margin-bottom: 10px;
+}
+p{color: #ffffff;text-align-last: font-size: 50px;font-family: 'Graduate', cursive;}
+h2{background: #165B4D;padding: 20px}
+h1{background: #006A65;padding: 20px}
+p{padding: 10px; font-size: 20px;}
+h5{text-align-last: center;margin: auto;color: #EAF0F0; padding:20px ;font-size: 38px;font-family: 'Graduate', cursive; background: #0F7561;padding: 0px}
+h6{text-align-last: center;margin: auto;color: #EAF0F0; padding:20px ;font-size: 30px;font-family: 'Graduate', cursive; background: #006A65;padding: 0px}
